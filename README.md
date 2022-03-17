@@ -1,2 +1,1 @@
-# empresas
-Empresas em PHP
+.ideia
